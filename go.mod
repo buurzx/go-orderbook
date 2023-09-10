@@ -1,9 +1,10 @@
-module github.com/danielgatis/go-orderbook
+module github.com/buurzx/go-orderbook
 
 go 1.20
 
 require (
 	github.com/bradleyjkemp/cupaloy/v2 v2.8.0
+	github.com/danielgatis/go-orderbook v0.0.0-20230808024110-7640955559eb
 	github.com/emirpasic/gods v1.18.1
 	github.com/google/uuid v1.3.0
 	github.com/shopspring/decimal v1.3.1
